@@ -41,16 +41,7 @@ git clone https://github.com/jonathancostin/AutoPoint
 cd AutoPoint
 ```
 
-### Install Dependencies
-
-Create a `requirements.txt` file with the following contents:
-
-```
-selenium
-cryptography
-```
-
-Install the required Python packages:
+### Install the required Python packages:
 
 ```bash
 pip install -r requirements.txt
