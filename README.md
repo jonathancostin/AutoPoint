@@ -37,8 +37,8 @@ AutoPoint is an automation script designed to interact with the Proofpoint Essen
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/jonathancostin/AutoPoint
+cd AutoPoint
 ```
 
 ### Install Dependencies
