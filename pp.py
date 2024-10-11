@@ -129,9 +129,6 @@ def main():
             launch_browser({username: password})
 
 
-url = "https://us2.proofpointessentials.com/app/login.php"
-
-
 def launch_browser(credentials):
     options = Options()
     options.add_argument("--headless")
